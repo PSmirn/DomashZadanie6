@@ -1,0 +1,15 @@
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.csproj.AssemblyReference.cache
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.GeneratedMSBuildEditorConfig.editorconfig
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.AssemblyInfoInputs.cache
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.AssemblyInfo.cs
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.csproj.CoreCompileInputs.cache
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\bin\Debug\net6.0\DomashZadanie6.exe
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\bin\Debug\net6.0\DomashZadanie6.deps.json
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\bin\Debug\net6.0\DomashZadanie6.runtimeconfig.json
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\bin\Debug\net6.0\DomashZadanie6.dll
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\bin\Debug\net6.0\DomashZadanie6.pdb
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.dll
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\refint\DomashZadanie6.dll
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.pdb
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\DomashZadanie6.genruntimeconfig.cache
+F:\учеба\разрабочик\Sisharp\DomashZadanie6\obj\Debug\net6.0\ref\DomashZadanie6.dll
